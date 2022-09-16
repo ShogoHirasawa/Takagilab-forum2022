@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "university_venture",
+"features": [
+{ "type": "Feature", "properties": { "name": "九州大学", "counts": 31, "adress": " 福岡市西区元岡744　", "str_count": "31" }, "geometry": { "type": "Point", "coordinates": [ 130.22331, 33.59715 ] } },
+{ "type": "Feature", "properties": { "name": "九州大学", "counts": 31, "adress": "福岡市東区馬出3-1-1", "str_count": "31" }, "geometry": { "type": "Point", "coordinates": [ 130.41573, 33.60923 ] } },
+{ "type": "Feature", "properties": { "name": "九州大学", "counts": 31, "adress": "福岡県春日市春日公園６-１", "str_count": "31" }, "geometry": { "type": "Point", "coordinates": [ 130.47649, 33.52265 ] } },
+{ "type": "Feature", "properties": { "name": "九州大学", "counts": 31, "adress": "福岡県福岡市南区塩原４-９-１", "str_count": "31" }, "geometry": { "type": "Point", "coordinates": [ 130.42998, 33.56063 ] } },
+{ "type": "Feature", "properties": { "name": "福岡大学", "counts": 10, "adress": "福岡市城南区七隈八丁目19-1", "str_count": "10" }, "geometry": { "type": "Point", "coordinates": [ 130.36313, 33.54693 ] } },
+{ "type": "Feature", "properties": { "name": "福岡女子大学", "counts": 1, "adress": "福岡市東区香住ヶ丘1-1-1", "str_count": "1" }, "geometry": { "type": "Point", "coordinates": [ 130.43852, 33.66596 ] } },
+{ "type": "Feature", "properties": { "name": "広島大学 ", "counts": 26, "adress": "広島市南区霞一丁目2番3号", "str_count": "26" }, "geometry": { "type": "Point", "coordinates": [ 132.47952, 34.37948 ] } },
+{ "type": "Feature", "properties": { "name": "広島大学 ", "counts": 26, "adress": "東広島市鏡山一丁目7番1号", "str_count": "26" }, "geometry": { "type": "Point", "coordinates": [ 132.71045, 34.3998 ] } },
+{ "type": "Feature", "properties": { "name": "広島市立大学", "counts": 3, "adress": "広島市安佐南区大塚東三丁目4番1号", "str_count": "3" }, "geometry": { "type": "Point", "coordinates": [ 132.41519, 34.43805 ] } },
+{ "type": "Feature", "properties": { "name": "県立広島大学", "counts": 1, "adress": "広島県広島市南区宇品東一丁目1番71号", "str_count": "1" }, "geometry": { "type": "Point", "coordinates": [ 132.46889, 34.36668 ] } },
+{ "type": "Feature", "properties": { "name": "県立広島大学", "counts": 1, "adress": "広島県庄原市七塚町5562番地", "str_count": "1" }, "geometry": { "type": "Point", "coordinates": [ 132.97562, 34.82997 ] } },
+{ "type": "Feature", "properties": { "name": "県立広島大学", "counts": 1, "adress": "広島県三原市学園町1番1号", "str_count": "1" }, "geometry": { "type": "Point", "coordinates": [ 133.05663, 34.39119 ] } },
+{ "type": "Feature", "properties": { "name": "広島工業大学 ", "counts": 1, "adress": "広島県広島市佐伯区三宅２丁目１?１", "str_count": "1" }, "geometry": { "type": "Point", "coordinates": [ 132.34294, 34.37022 ] } }
+]
+}
